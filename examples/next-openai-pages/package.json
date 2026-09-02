@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@ai-sdk/openai": "3.0.106",
+    "@ai-sdk/openai": "3.0.107",
     "@ai-sdk/react": "3.0.278",
     "ai": "6.0.275",
     "next": "^15.5.21",
