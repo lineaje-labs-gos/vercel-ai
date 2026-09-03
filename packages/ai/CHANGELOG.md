@@ -1,5 +1,11 @@
 # ai
 
+## 5.0.253
+
+### Patch Changes
+
+- 5643ec9: fix(ai): allow manual continuations to reuse JSON tool outputs with undefined object properties
+
 ## 5.0.252
 
 ### Patch Changes
