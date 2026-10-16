@@ -34,9 +34,15 @@
   "homepage": "https://sdk.vercel.ai/docs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vercel/ai.git"
+    "url": "https://github.com/lineaje-labs-gos/vercel-ai"
   },
   "license": "Apache License",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/vercel/ai/issues"
   },
@@ -50,5 +56,6 @@
     "singleQuote": true,
     "arrowParens": "avoid",
     "trailingComma": "all"
-  }
+  },
+  "version": "2.2.37-lineaje-01"
 }
